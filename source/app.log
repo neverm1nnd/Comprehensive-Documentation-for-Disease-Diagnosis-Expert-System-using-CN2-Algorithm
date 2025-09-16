@@ -1,0 +1,4 @@
+2025-05-05 02:20:18,953 - ERROR - Prediction error: 'perimeter'
+2025-05-05 02:25:21,365 - ERROR - Prediction error: 'perimeter'
+2025-05-14 13:43:24,979 - ERROR - Error loading symptoms list: [Errno 2] No such file or directory: '../Data/csv/dataset_processed.csv'
+2025-05-14 13:43:24,982 - ERROR - Error loading symptoms list: [Errno 2] No such file or directory: '../Data/csv/dataset_processed.csv'
